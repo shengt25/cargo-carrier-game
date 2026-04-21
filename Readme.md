@@ -264,3 +264,9 @@ or
 There are error cases when trying to unload again before flying. (for example because someone modified javascript or send wrong data)
 It gives response message like this:
 `{ "message": "How do you unload without cargo, hacker?", "success": false }`
+
+# Acknowledgments
+Teammates contributed to this project:  
+[VitaliiVIP](https://github.com/VitaliiVIP)  
+[LDangDev](https://github.com/LDangDev)  
+[luungocthien](https://github.com/luungocthien)  
