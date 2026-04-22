@@ -267,6 +267,6 @@ It gives response message like this:
 
 # Acknowledgments
 Teammates contributed to this project:  
-[VitaliiVIP](https://github.com/VitaliiVIP)  
-[LDangDev](https://github.com/LDangDev)  
-[luungocthien](https://github.com/luungocthien)  
+- [VitaliiVIP](https://github.com/VitaliiVIP) – developed front-end side, also worked with databases.
+- [LDangDev](https://github.com/LDangDev) -  worked with databases and flask.
+- [luungocthien](https://github.com/luungocthien) - worked with back-end.
